@@ -182,6 +182,9 @@
         "MemorySwappiness": {
           "type": "integer"
         },
+        "MemorySwapfile": {
+          "type": "string"
+        },
         "OomKillDisable": {
           "type": "boolean"
         },
